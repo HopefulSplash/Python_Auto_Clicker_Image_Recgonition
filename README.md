@@ -1,1 +1,1 @@
-# Python_Auto_Clicker_Image_Recgonition
+A Python Script To Find An Set Image On The Screen & Clicks It
